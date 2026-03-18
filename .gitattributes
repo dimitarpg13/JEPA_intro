@@ -1,0 +1,11 @@
+literature/JEPA/lecun-20220720-leshouches-02.pdf filter=lfs diff=lfs merge=lfs -text
+literature/JEPA/LeJEPA-Provable_and_Scalable_Self-Supervised_Learning_Without_the_Heuristics_Ballestriero_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/JEPA/LLM-JEPA_Large_Language_Models_Meet_Joint_Embedding_Predictive_Architectures_Huang_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/JEPA/A_Path_Towards_Autonomous_Machine_Intelligence_Version_0.9.2_2022-06-27_LeCunn filter=lfs diff=lfs merge=lfs -text
+literature/JEPA/Comparison_of_Embedded_Spaces_for_Deep_Learning_Classification_Scholl_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/JEPA/Introduction_to_Latent_Variable_Energy-Based_Models-A_Path_Towards_Autonomous_Machine_Intelligence_Dawid_2023.pdf filter=lfs diff=lfs merge=lfs -text
+literature/JEPA/lecun-20220720-leshouches-01.pdf filter=lfs diff=lfs merge=lfs -text
+literature/JEPA/lecun-20220720-leshouches-03.pdf filter=lfs diff=lfs merge=lfs -text
+literature/JEPA/NeurIPS-2024-connecting-joint-embedding-predictive-architecture-with-contrastive-self-supervised-learning-Paper-Conference.pdf filter=lfs diff=lfs merge=lfs -text
+literature/JEPA/VL-JEPA_Joint_Embedding_Predictive_Architecture_for_Vision-language_Chen_2026.pdf filter=lfs diff=lfs merge=lfs -text
+literature/JEPA/Deep_Dive_into_Yann_LeCun_JEPA_by_Rohit_Bandaru.pdf filter=lfs diff=lfs merge=lfs -text
