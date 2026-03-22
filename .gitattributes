@@ -9,3 +9,4 @@ literature/JEPA/lecun-20220720-leshouches-03.pdf filter=lfs diff=lfs merge=lfs -
 literature/JEPA/NeurIPS-2024-connecting-joint-embedding-predictive-architecture-with-contrastive-self-supervised-learning-Paper-Conference.pdf filter=lfs diff=lfs merge=lfs -text
 literature/JEPA/VL-JEPA_Joint_Embedding_Predictive_Architecture_for_Vision-language_Chen_2026.pdf filter=lfs diff=lfs merge=lfs -text
 literature/JEPA/Deep_Dive_into_Yann_LeCun_JEPA_by_Rohit_Bandaru.pdf filter=lfs diff=lfs merge=lfs -text
+literature/JEPA/Semantic_Tube_Prediction-Beating_LLM_Data_Efficiency_with_JEPA_Huang_2026.pdf filter=lfs diff=lfs merge=lfs -text
